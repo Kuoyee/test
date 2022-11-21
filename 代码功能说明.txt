@@ -1,0 +1,11 @@
+rentspider_lianjia.py	爬虫代码
+data_preprocessing.py	数据预处理
+spark_analyse		使用pyspark进行统计分析
+ml_classify.py		机器学习分类算法
+dl_classify_fnn.py		深度学习FNN算法
+dl_classify_cnn.py		深度学习CNN算法
+ItemCF.py		基于物品的协同过滤算法
+draw.py			使用pyecharts画图
+
+注：其中spark_analyse需要在虚拟机中安装spark
+深度学习算法需要搭建python+pytorch环境
